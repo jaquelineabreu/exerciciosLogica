@@ -3,7 +3,7 @@
 
 int main()
 {
-    int valor1, valor2, soma;
+    int valor1, valor2;
     
     scanf("%i",&valor1);
     scanf("%i",&valor2);
